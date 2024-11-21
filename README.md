@@ -35,6 +35,4 @@ The project relies on the KDD Cup 1999 dataset, a publicly available dataset fro
 
 ## Author
 
-Nafis Emran Khan
-, Dipalok Sen
-, Anik Kanti Bormon
+Nafis Emran Khan, Dipalok Sen, Anik Kanti Bormon
